@@ -49,3 +49,10 @@
     top: -15px;
 }
 
+/* ------------responsive------------- */
+
+@media (max-width: 425px){
+    .colaborador .info h5{
+        font-size: 15px;
+    }
+}

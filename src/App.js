@@ -22,7 +22,7 @@ function App() {
     id: uuid(),
     equipo: "Programación",
     foto: "https://avatars.githubusercontent.com/u/172339152?v=4",
-    nombre: "Jonathan Saraviua",
+    nombre: "Jonathan Saravia",
     puesto: "Desarrollador de software e instructor",
     fav:false
   },

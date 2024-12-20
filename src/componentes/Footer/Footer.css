@@ -18,3 +18,18 @@
 
 
 
+/* ------------responsive------------- */
+
+@media (max-width: 425px){
+    .redes a img{
+        width: 20px;
+    }
+
+    .logo_org{
+        display: none;
+    }
+
+    .texto_footer{
+        text-align: end;
+    }
+}

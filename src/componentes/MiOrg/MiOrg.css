@@ -18,3 +18,24 @@
     right: 30%;
     cursor: pointer;
 }
+
+/* ------------responsive------------- */
+
+@media (max-width: 425px){
+    .title{
+        font-size: 20px;
+    }
+    .orgSection img{
+        width: 50px;
+        right: 10%;
+    }
+    
+}
+
+@media (max-width: 1024px){
+    .orgSection img{
+        max-width: 100px;
+        right: 10%;
+    }
+    
+}
